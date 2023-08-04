@@ -1,0 +1,4 @@
+ 4 0
+ 0.0  0.0  1033.0  0.20  # ground with 20% water fraction
+ 0.0  0.0  1033.0  100.0 # black hole mode
+20.0  10.0  200.0  10.0  # Ideal atmosphere
